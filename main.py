@@ -1,3 +1,3 @@
-print('Heloo GIT')
+print('Hello GIT')
 
 print('Primeira alteração')
